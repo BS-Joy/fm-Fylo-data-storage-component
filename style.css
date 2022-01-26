@@ -158,6 +158,10 @@ body {
     font-size: 0.6rem;
 }
 
+footer {
+    color: red;
+}
+
 @media (max-width: 1024px) {
     .container {
         width: 80vw;
